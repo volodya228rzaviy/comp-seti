@@ -1,6 +1,0 @@
-p {
-    text-indent: 1em;
-}
-p:first-child {
-    text-indent: 0;
-}

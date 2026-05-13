@@ -1,8 +1,0 @@
-a[href$=".ru"] {
-    background: url(../img/ru.png) 0 6px no-repeat;
-    padding-left: 12px;
-}
-a[href$=".com"] {
-    background: url(../img/com.png) 0 6px  no-repeat;
-    padding-left: 12px;
-}
